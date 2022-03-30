@@ -1,0 +1,50 @@
+SCENARIO,FACTION,RESPONSE1,RESPONSE2,POLICE,MILITARY,PEOPLE,OPPOSITION,MAFIA,OLIGARCHS,KONGZI,XUNZI,HANFEIZI,LORDSHANG,MOZI
+Cover up recent news of illegal firearm trade?,mafia,Yes,No,-2,-1,-2,-1,2,1,-2,-2,-1,-2,-1
+Ignore the procurement of prostitutes?,mafia,Yes,No,-2,-1,-1,-1,2,1,-2,-2,-1,-1,-1
+Legalize casinos?,mafia,Yes,No,-2,-1,1,-1,2,2,-2,-2,-1,-1,0
+Legalize sports betting?,mafia,Yes,No,-2,-1,1,-1,2,2,-2,-2,-1,-1,0
+Turn down legislation restricting exotic wildlife trade?,mafia,Yes,No,-2,-1,-1,-1,2,2,-2,-2,-1,-1,-1
+Institute amnesty policy for alcohol use on campuses?,mafia,Yes,No,-1,-1,2,0,1,0,-1,-1,-1,-2,-1
+Enter arms race with rival state?,military,Yes,No,1,2,-1,0,-1,1,0,0,1,1,1
+Invest in technology to build military weapons?,military,Yes,No,1,2,-1,-1,0,1,0,0,2,1,0
+Permit the building of missile silos in residential zones?,military,Yes,No,-1,2,-1,-1,-1,-1,0,0,2,1,2
+Sponsor hackers to attack rival state?,military,Yes,No,1,1,0,-1,-1,-1,-1,-1,1,1,1
+Legalize conscription?,military,Yes,No,-1,2,-1,0,-1,-2,0,0,2,1,2
+Allow the military to control nutrition and physical activity standards?,military,Yes,No,1,2,-1,0,0,0,-1,-1,2,1,1
+Have regular military demonstrations?,military,Yes,No,-1,2,0,0,0,0,0,0,2,1,1
+Increase veteran benefits?,military,Yes,No,-1,2,-1,0,0,-1,-1,0,1,1,-1
+Build a research institution with expensive admittance?,oligarchs,Yes,No,1,1,-2,0,0,2,1,1,-1,-2,2
+Reward candidacy donors with positions in government and money?,oligarchs,Yes,No,-1,-1,-2,-2,0,2,-2,-2,-1,2,-2
+Allow purchase of non-fungible tokens (NFTs) to count as donations for tax purposes?,oligarchs,Yes,No,-1,0,-1,0,2,2,-1,-1,-1,-1,-1
+Subsidize energy for Bitcoin mining?,oligarchs,Yes,No,0,0,1,-1,1,1,0,0,-1,-2,-1
+Increase inheritance tax?,oligarchs,Yes,No,0,0,-1,2,-1,-2,-1,-1,1,1,1
+Power outage happens but you promised your family and platform supporters that you'd fund a beach outing. Do you go on the beach trip?,oligarchs,Yes,No,0,0,-2,0,0,2,-1,-1,2,2,1
+Opposition newspaper publishes an op-ed criticizing your excessive golfing,opposition,Cancel golf trip,Silence the newspaper,0,0,1,2,-1,0,1,1,0,0,0
+Limit art school curriculum to classical art?,opposition,Yes,No,1,0,-1,-1,0,0,1,1,0,0,0
+Defy sovereignty agreements on neighboring bodies of water to expand fishing industry?,opposition,Yes,No,0,1,1,-1,0,1,-1,-1,1,1,1
+Do you sign an international treaty to promote green energy?,opposition ,Yes,No,0,0,0,1,-1,-1,1,1,-1,-1,0
+Introduce mandatory etiquette classes for middle schoolers?,people,Yes,No,-1,-1,1,0,-1,0,1,2,0,0,0
+Use government spending to subsidize paid maternity leave?,people,Yes,No,0,0,1,1,-1,-1,0,0,1,1,1
+Tax billionaires to provide free college education?,people,Yes,No,0,0,1,0,-1,-2,1,1,1,1,-1
+Publicize a health campaign by quiting smoking?,people,Yes,No,0,0,1,0,0,-1,1,1,0,0,0
+Enforce prohibition of liquor with imprisonment? ,people,Yes,No,1,1,-1,-1,-2,-1,0,0,2,1,1
+Build a religious temple and mark the land as sacred?,people,Yes,No,0,0,1,0,-1,-1,1,1,0,-1,0
+Allow college students to drink in class?,people,Yes ,No,-1,-1,1,1,1,0,-1,-1,-2,-2,-2
+Permit citizens to brew beer at home?,people,Yes,No,-1,0,1,1,-1,-1,0,0,-1,-1,-1
+Abolish philosophy department and reallocate funding to agricultural studies?,people,Yes,No,1,1,0,-1,-1,1,-1,-2,1,2,2
+The country is under lockdown due to a pandemic. Do you allow people to attend weddings and birthdays as an exception to the lockdown?,people,Yes,No,-1,-1,1,0,1,1,1,1,-1,-1,-1
+Increase interest rate on student loans?,people,Yes,No,0,0,-2,1,1,1,-1,-2,1,2,-1
+Neighboring states are having a refugee crisis. Make attaining visas harder?,people,Yes,No,1,2,1,0,-2,-1,-1,-1,1,1,-2
+"Create free, universal healthcare at by taxing corporations?",people,Yes,No,1,1,2,0,-1,-2,0,0,-1,-2,2
+Increase carbon taxes?,people,Yes,No,0,0,0,0,-2,-2,0,0,2,1,2
+Invest in railed public transport?,people,Yes,No,0,0,1,1,0,-2,0,0,2,1,1
+Your advisors just told you that the percentage of children playing online video games is too high. What do you do?,people,Limit the hours a child can play videogames,Ignore the problem,1,2,-1,-1,-1,0,1,1,2,2,2
+Protect endangered animals?,people,Yes,No,1,0,2,0,-2,-1,0,0,0,0,2
+Arm police with military grade weapons?,police,Yes,No,2,1,-1,0,-2,0,0,0,2,1,1
+Expand state prison system?,police,Yes,No,1,1,-1,0,-1,0,0,0,2,1,1
+Make truancy a punishable offense?,police,Yes,No,1,1,-1,-1,-1,0,1,2,0,1,0
+Prosecutors ask to allocate defense budget to police force,police,Yes,No,2,-2,0,0,-1,-1,0,0,1,1,-1
+Reward favored government officials with free first class tickets?,police,Yes,No,1,1,-2,-1,1,1,1,1,-1,-1,-1
+Sponsor safe injection sites for drugs? ,police,Yes,No,2,1,1,0,-2,-1,0,0,-1,-2,2
+"Prohibit companies from changing their names to anything meaning ""she is dead""?",oligarchs,Yes,No,0,0,1,0,0,-2,0,0,0,0,0
+Ban companies from producing noisy radiators and heaters for classrooms?,people,Yes,No,0,0,1,-1,-1,-1,0,0,2,1,-1
